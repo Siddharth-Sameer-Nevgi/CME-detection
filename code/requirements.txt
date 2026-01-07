@@ -1,0 +1,7 @@
+flask
+psycopg2
+pandas
+cdflib
+numpy
+scikit-learn
+tensorflow
